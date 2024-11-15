@@ -25,7 +25,7 @@
 </p>
 
 <h3
-  style="display: flex; align-items: center"
+  style="display: flex; align-items: center; gap: 4px;"
   align="left"
 >
   Languages and Tools:
