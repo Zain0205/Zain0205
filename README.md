@@ -5,20 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain0205&label=Profile%20views&color=0e75b6&style=flat" alt="zain0205" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Golang**<div align="center">
-  <img
-    src="https://git-hub-streak-stats.vercel.app/?user=doctordoom101&theme=tokyonight&hide_border=true"
-    height="150"
-    alt="GitHub streak stats"
-    style="display:inline-block; margin-right:10px;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctordoom101&theme=tokyonight&layout=compact&hide_border=true" 
-    height="150" 
-    alt="Top languages stats"
-    style="display:inline-block;" 
-  />
-</div>
+- 🌱 I’m currently learning **Flutter, Golang**
 
 - 💬 Ask me about **React JS, TailwindCSS**
 
