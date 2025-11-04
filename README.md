@@ -23,13 +23,13 @@
 
 <div align="center">
   <img
-    src="https://git-hub-streak-stats.vercel.app/?user=doctordoom101&theme=tokyonight&hide_border=true"
+    src="https://git-hub-streak-stats.vercel.app/?user=zain0205&theme=tokyonight&hide_border=true"
     height="150"
     alt="GitHub streak stats"
     style="display:inline-block; margin-right:10px;" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctordoom101&theme=tokyonight&layout=compact&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain0205&theme=tokyonight&layout=compact&hide_border=true" 
     height="150" 
     alt="Top languages stats"
     style="display:inline-block;" 
