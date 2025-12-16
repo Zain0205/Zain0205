@@ -28,10 +28,13 @@
     alt="GitHub streak stats"
     style="display:inline-block; margin-right:10px;" 
   />
+ 
+
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zain0205&theme=tokyonight" 
-    height="150"
-    style="display:inline-block; margin-right:10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain0205&theme=tokyonight&layout=compact&hide_border=true"
+    height="150" 
+    alt="Top languages stats"
+    style="display:inline-block;" 
   />
   
 </div>
