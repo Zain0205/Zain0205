@@ -56,7 +56,9 @@
 
 ## 📊 GitHub Stats
 
+![Github profile stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zain0205&count_private=true&layout=compact&theme=tokyonight&&hide=contribs,issues)
 
+![Top langugage stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zain0205&count_private=true&layout=compact&theme=tokyonight&&hide=ejs,hack,html)
 
 ---
 
