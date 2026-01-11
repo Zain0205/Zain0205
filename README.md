@@ -50,8 +50,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" style="margin:0 10px;" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="margin:0 10px;" />
 </p>
-
-
 ---
 
 ## 📊 GitHub Stats
