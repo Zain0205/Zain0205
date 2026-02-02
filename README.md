@@ -17,7 +17,6 @@
 - 💬 Ask me about **React JS, TailwindCSS**
 - 🧠 Interested in **Backend Architecture & Mobile App Development**
 - 📫 Reach me at **fahmizain000@gmail.com**
-
 ---
 
 ## 🌐 Connect With Me
