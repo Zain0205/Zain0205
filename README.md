@@ -8,8 +8,6 @@
   Flutter • Golang • Backend • Mobile & Web Development
 </p>
 
----
-
 ## 🙋‍♂️ About Me
 
 - 🌱 Currently learning **Flutter & Golang**
@@ -46,16 +44,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" style="margin:0 10px;" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="margin:0 10px;" />
 </p>
----
 
 ## 📊 GitHub Stats
 
 ![Github profile stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zain0205&count_private=true&layout=compact&theme=tokyonight&&hide=contribs,issues)
 
 ![Top langugage stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zain0205&count_private=true&layout=compact&theme=tokyonight&&hide=ejs,hack,html)
-
----
-
 
 ## ⚡ Fun Fact
 
