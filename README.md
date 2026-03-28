@@ -7,7 +7,9 @@
 <p>
   Flutter • Golang • Backend • Mobile & Web Development
 </p>
+
 ---
+
 ## 🙋‍♂️ About Me
 
 - 🌱 Currently learning **Flutter & Golang**
