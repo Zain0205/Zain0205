@@ -9,8 +9,8 @@
   Flutter • Golang • Backend • Mobile & Web Development
 </p>
 
-
 ## 🙋‍♂️ About Me
+
 
 - 🌱 Currently learning **Flutter & Golang**
 - 💬 Ask me about **React JS, TailwindCSS**
@@ -20,7 +20,8 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/fahmizzain_" target="_blank">
+  <a 
+    href="https://instagram.com/fahmizzain_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
