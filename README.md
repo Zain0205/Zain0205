@@ -11,7 +11,6 @@
 
 ## 🙋‍♂️ About Me
 
-
 - 🌱 Currently learning **Flutter & Golang**
 - 💬 Ask me about **React JS, TailwindCSS**
 - 🧠 Interested in **Backend Architecture & Mobile App Development**
