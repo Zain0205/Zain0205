@@ -53,6 +53,8 @@
 </p>
 
 
+## 📂 Featured Projects
+
 ## ⚡ Fun Fact
 
 > I enjoy building clean architectures and scalable applications 🚀
