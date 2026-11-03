@@ -54,6 +54,7 @@
 
 
 ## 📂 Featured Projects
+- [**fixtrack-go**](https://github.com/Zain0205/fixtrack-go) - REST + WebSocket API for ticketing, SLA, technician dispatch, GPS tracking, and real-time updates.
 
 ## ⚡ Fun Fact
 
