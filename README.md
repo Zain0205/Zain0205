@@ -55,6 +55,7 @@
 
 ## 📂 Featured Projects
 - [**fixtrack-go**](https://github.com/Zain0205/fixtrack-go) - REST + WebSocket API for ticketing, SLA, technician dispatch, GPS tracking, and real-time updates.
+- **Travelin** - travel agency platform for bookings, transactions, and promotions: [React + Shadcn UI](https://github.com/Zain0205/travelin-fe-react) / [NestJS + Prisma](https://github.com/Zain0205/travelin-be-nest).
 
 ## ⚡ Fun Fact
 
