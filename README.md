@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently learning **Flutter & Golang**
+- 🌱 Currently learning and building with **Flutter & Golang**
 - 💬 Ask me about **React JS, TailwindCSS**
 - 🧠 Interested in **Backend Architecture & Mobile App Development**
 - 📫 Reach me at **fahmizain000@gmail.com**
