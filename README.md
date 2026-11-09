@@ -60,4 +60,4 @@
 
 ## ⚡ Fun Fact
 
-> I enjoy building clean architectures and scalable applications 🚀
+> I enjoy building clean, maintainable architectures and scalable applications 🚀
