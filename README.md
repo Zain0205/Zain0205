@@ -52,12 +52,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="margin:0 10px;" />
 </p>
 
-## 📂 Featured Projects
-- [**fixtrack-go**](https://github.com/Zain0205/fixtrack-go) - REST + WebSocket API for ticketing, SLA, technician dispatch, GPS tracking, and real-time updates.
-- **Travelin** - travel agency platform for bookings, transactions, and promotions: [React + Shadcn UI](https://github.com/Zain0205/travelin-fe-react) / [NestJS + Prisma](https://github.com/Zain0205/travelin-be-nest).
-- [**url-shortener-go**](https://github.com/Zain0205/url-shortener-go) - simple project for learning system design fundamentals.
-- **NutriScan** - nutrition and calorie tracker: [Flutter app](https://github.com/Zain0205/nutriscan-fe-flutter) / [Express + Prisma API](https://github.com/Zain0205/nutriscan-be-express).
-
 ## ⚡ Fun Fact
 
 > I enjoy building clean, maintainable architectures and scalable applications 🚀
